@@ -14,16 +14,28 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
 
 - Bulleted
 - List
+- Third bullet
 
 1. Numbered
 2. List
+3. Third number
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+```
+
+### Sample main method
+```markdown
+public static void main(String[] args){
+  System.out.println("Hello");
+}
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
