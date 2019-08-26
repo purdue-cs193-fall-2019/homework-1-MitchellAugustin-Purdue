@@ -1,3 +1,12 @@
+#  Mitchell Augustin's First CS193 Homework
+
+###  Favorite things about CS193
+
+- I'm going to learn more about git
+- No traditional tests or quizzes
+- It might teach me more about topics that CS180 won't cover
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
